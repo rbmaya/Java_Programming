@@ -1,0 +1,29 @@
+2020-03-23 12:10:36,344 INFO Calculator [main] Creating scanner from java.io.BufferedInputStream@1786dec2
+2020-03-23 12:10:36,355 INFO Calculator [main] Creating new context.
+2020-03-23 12:10:36,357 INFO Calculator [main] Initialization Factory.
+2020-03-23 12:10:36,361 INFO Factory [main] Loading resource of configuration.
+2020-03-23 12:10:46,658 INFO Factory [main] Finding command "DEFINE" in property-file.
+2020-03-23 12:10:46,665 INFO Factory [main] Creating operation class operation.Define
+2020-03-23 12:10:46,665 INFO Calculator [main] Trying to do operation operation.Define@52feb982
+2020-03-23 12:10:46,667 INFO Calculator [main] Operation is successfully operation.Define@52feb982
+2020-03-23 12:10:57,905 INFO Factory [main] Finding command "DEFINE" in property-file.
+2020-03-23 12:10:57,906 INFO Factory [main] Creating operation class operation.Define
+2020-03-23 12:10:57,906 INFO Calculator [main] Trying to do operation operation.Define@4b553d26
+2020-03-23 12:10:57,906 INFO Calculator [main] Operation is successfully operation.Define@4b553d26
+2020-03-23 12:11:02,471 INFO Factory [main] Finding command "PUSH" in property-file.
+2020-03-23 12:11:02,475 INFO Factory [main] Creating operation class operation.Push
+2020-03-23 12:11:02,476 INFO Calculator [main] Trying to do operation operation.Push@86be70a
+2020-03-23 12:11:02,476 INFO Calculator [main] Operation is successfully operation.Push@86be70a
+2020-03-23 12:11:12,116 INFO Factory [main] Finding command "PUSH" in property-file.
+2020-03-23 12:11:12,116 INFO Factory [main] Creating operation class operation.Push
+2020-03-23 12:11:12,116 INFO Calculator [main] Trying to do operation operation.Push@480bdb19
+2020-03-23 12:11:12,116 INFO Calculator [main] Operation is successfully operation.Push@480bdb19
+2020-03-23 12:11:20,208 INFO Factory [main] Finding command "-" in property-file.
+2020-03-23 12:11:20,213 INFO Factory [main] Creating operation class operation.Sub
+2020-03-23 12:11:20,215 INFO Calculator [main] Trying to do operation operation.Sub@7d70d1b1
+2020-03-23 12:11:20,215 INFO Calculator [main] Operation is successfully operation.Sub@7d70d1b1
+2020-03-23 12:11:25,192 INFO Factory [main] Finding command "PRINT" in property-file.
+2020-03-23 12:11:25,193 INFO Factory [main] Creating operation class operation.Print
+2020-03-23 12:11:25,194 INFO Calculator [main] Trying to do operation operation.Print@3cb1ffe6
+2020-03-23 12:11:25,196 INFO Calculator [main] Operation is successfully operation.Print@3cb1ffe6
+2020-03-23 12:11:30,930 INFO Main [main] Calculating is successful.

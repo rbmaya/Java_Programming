@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8702c24f-5669-4a9c-824e-40d1d7dff828" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZnhluCrupd9KS7e23OwWLp8oP3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rmaya\Java\gameJumper\src\main\resources\Pictures\Icons" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JumperFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JumperFrame" />
+      <module name="gameJumper.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JumperFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8702c24f-5669-4a9c-824e-40d1d7dff828" name="Default Changelist" comment="" />
+      <created>1585480919699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585480919699</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="177" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1587447378749">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="391" y="177" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.680@0.0.1280.680" timestamp="1587447378749" />
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1587294262760">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1587294262760" />
+    <state x="321" y="78" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586084911410">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="78" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1586084911410" />
+    <state x="321" y="267" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587701941631">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="267" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1587701941631" />
+    <state x="438" y="201" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586142155710">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="201" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1586142155710" />
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585823127610">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1585823127610" />
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1587287974352">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587287974352" />
+    <state width="1237" height="89" key="GridCell.Tab.0.bottom" timestamp="1587462456398">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="89" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587462456398" />
+    <state width="1877" height="123" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585810110069" />
+    <state width="1237" height="89" key="GridCell.Tab.0.center" timestamp="1587462456398">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="89" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587462456398" />
+    <state width="1877" height="123" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585810110069" />
+    <state width="1237" height="89" key="GridCell.Tab.0.left" timestamp="1587462456398">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="89" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587462456398" />
+    <state width="1877" height="123" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585810110069" />
+    <state width="1237" height="89" key="GridCell.Tab.0.right" timestamp="1587462456398">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="89" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587462456398" />
+    <state width="1877" height="123" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585810110069" />
+    <state width="1237" height="73" key="GridCell.Tab.1.bottom" timestamp="1587307066844">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="73" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587307066844" />
+    <state width="1237" height="73" key="GridCell.Tab.1.center" timestamp="1587307066843">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="73" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1587307066843" />
+    <state width="1237" height="73" key="GridCell.Tab.1.left" timestamp="1587307066843">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="73" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1587307066843" />
+    <state width="1237" height="73" key="GridCell.Tab.1.right" timestamp="1587307066844">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="73" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1587307066844" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1587447401719">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587447401719" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1585828242045">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1585828242045" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1587701747260">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587701747260" />
+    <state x="372" y="0" width="922" height="514" key="dock-window-1" timestamp="1585825062365">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="372" y="0" width="922" height="514" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1585825062365" />
+    <state x="502" y="0" width="739" height="680" key="find.popup" timestamp="1586763079625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="502" y="0" width="739" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1586763079625" />
+    <state x="91" y="0" key="new project wizard" timestamp="1585914890036">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585914890036" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1585827944324">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1585827944324" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/gameJumper$JumperFrame.ic" NAME="JumperFrame Coverage Results" MODIFIED="1587292726389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

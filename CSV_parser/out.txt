@@ -1,0 +1,4 @@
+Word, Frequency, Percentage frequency:
+lol,1,0.3333333333333333%
+lool,1,0.3333333333333333%
+looooool,1,0.3333333333333333%
